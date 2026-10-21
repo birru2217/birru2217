@@ -1,98 +1,158 @@
-<!-- Animated Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6&height=250&section=header&text=Welcome%20to%20Birru's%20Space&fontSize=60&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descAlign=50&fontColor=ffffff" width="100%"/>
-
+<!-- ==========================================
+     🌟 MASSIVE ANIMATED HEADER SECTION 🌟
+=========================================== -->
 <div align="center">
-  
-  <!-- Typing Animation -->
-  <a href="https://github.com/birru2217">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=System+Architecture+%26+Design;Building+Scalable+Web+Apps;Data+Analysis+%26+Visualization;Passionate+Problem+Solver" alt="Typing SVG" />
-  </a>
-  <br><br>
-  <!-- Social & Contact Badges -->
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/birru2217"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  
-</div>
-
----
-
-<table align="center" width="100%">
-  <tr>
-    <td width="60%">
-      <h2>👨‍💻 About Me</h2>
-      <p>I am a dynamic and detail-oriented Software Engineer specializing in backend architecture, intuitive front-end designs, and data-driven applications. I thrive in environments that challenge me to solve complex problems and learn new technologies.</p>
-      <ul>
-        <li>💼 <b>Current Focus:</b> Enterprise Management & E-Commerce Systems.</li>
-        <li>🌱 <b>Learning:</b> Cloud Computing (AWS) & Advanced Data Structures.</li>
-        <li>💡 <b>Interests:</b> Open Source, System Design, and Tech Communities.</li>
-        <li>📫 <b>Reach me at:</b> Let's connect on LinkedIn or via Email!</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Coding Animation" onerror="this.src='https://raw.githubusercontent.com/7s1r0/7s1r0/main/assets/coding.gif'"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&perline=10" /><br>
-  <img src="https://skillicons.dev/icons?i=php,python,nodejs,mysql,postgres,git,github,vscode,postman&perline=10" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0bceaf&height=300&section=header&text=Welcome%20to%20My%20Universe&fontSize=70&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20Innovator&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%"/>
 </div>
 
 <br>
 
----
+<div align="center">
+  <!-- Dynamic Animated Name & Department -->
+  <a href="https://github.com/birru2217">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+[Maqaa+Kee+Asitti+Guuti]+%F0%9F%91%8B;Department%3A+[Department+Kee];I+Build+Enterprise+Applications;Mastering+Data+%26+Algorithms" alt="Typing SVG" />
+  </a>
+  <br>
+  <a href="https://github.com/birru2217">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00B8FF&center=true&vCenter=true&width=800&lines=Full-Stack+Development+%E2%9A%99%EF%B8%8F;System+Architecture+%F0%9F%8F%97%EF%B8%8F;Database+Management+%F0%9F%93%8A;Passionate+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG Skills" />
+  </a>
+</div>
 
-<h2 align="center">📊 GitHub Dashboard & Analytics</h2>
+<br>
 
-<!-- DASHBOARD CHARTS ALIGNED IN A TABLE FOR A PROFESSIONAL LOOK -->
-<table align="center" width="100%" style="border: none;">
+<!-- Contact & Social Badges (Enlarged) -->
+<div align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" alt="Email"/></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn"/></a>
+  <a href="https://github.com/birru2217"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" alt="GitHub"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0bceaf?style=for-the-badge&logo=Web&logoColor=white&logoWidth=30" alt="Portfolio"/></a>
+</div>
+
+<br><br>
+
+<!-- ==========================================
+     🧑‍💻 ABOUT ME & 10x ANIMATION MATRIX 🧑‍💻
+=========================================== -->
+<h1 align="center">⚡ <font color="#00FF9D">About Me & My Workspace</font> ⚡</h1>
+
+<table align="center" width="100%" style="border: none; background-color: #0d1117; border-radius: 15px;">
   <tr>
-    <!-- General Stats -->
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=birru2217&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC&icon_color=38B2AC" width="100%" alt="Birru's GitHub Stats"/>
+    <td width="55%" valign="top" style="padding: 20px;">
+      <h2>👨‍💻 Who Am I?</h2>
+      <p style="font-size: 18px;">
+        I am a visionary Software Engineer currently studying <b>[Department Kee]</b>. I specialize in designing scalable architectures, developing intuitive user interfaces, and managing complex databases.
+      </p>
+      <h3>🚀 My Core Abilities:</h3>
+      <ul>
+        <li>🔥 <b>Backend & APIs:</b> Building robust server-side architectures.</li>
+        <li>🎨 <b>Frontend Dynamics:</b> Crafting interactive & responsive UI/UX.</li>
+        <li>📊 <b>Data Engineering:</b> Handling large-scale database operations.</li>
+        <li>🌐 <b>Cloud & DevOps:</b> Deploying seamless continuous integration.</li>
+      </ul>
+      <p style="font-size: 18px;"><i>"I don't just write code; I engineer solutions that make an impact."</i></p>
     </td>
-    <!-- Top Languages Donut Chart -->
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birru2217&theme=tokyonight&hide_border=true&layout=donut&title_color=38B2AC" width="100%" alt="Top Languages"/>
+    <td width="45%" align="center">
+      <!-- 10x Animation Grid (Coding + Snake + 3D) -->
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/7s1r0/7s1r0/main/assets/coding.gif" width="48%" style="border-radius:10px;"/>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="48%" style="border-radius:10px;"/><br>
+        <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Contribution Snake" style="margin-top: 10px;" onerror="this.src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif'"/>
+      </div>
     </td>
   </tr>
 </table>
 
+<br><br>
+
+<!-- ==========================================
+     🛠️ MASSIVE TECH STACK & TOOLS 🛠️
+=========================================== -->
+<h1 align="center">🔮 <font color="#00B8FF">Tech Stack & Arsenal</font> 🔮</h1>
+<p align="center"><b>Languages, Frameworks, Databases, and Tools I use to build the future.</b></p>
+
+<div align="center">
+  <!-- Languages -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cpp,cs,ruby,go,rust&perline=12" />
+  </a><br><br>
+  <!-- Frameworks & Libraries -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,nodejs,express,django,flask,laravel,spring,bootstrap,tailwind,sass&perline=14" />
+  </a><br><br>
+  <!-- Databases & Cloud / DevOps -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase,aws,gcp,docker,kubernetes,nginx,linux,ubuntu&perline=13" />
+  </a><br><br>
+  <!-- Tools & Editors -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,vim,figma,postman,npm,yarn,webpack,jest&perline=12" />
+  </a>
+</div>
+
+<br><br>
+
+<!-- ==========================================
+     📈 FOREX, GROW & DATABASE ANALYTICS 📈
+=========================================== -->
+<h1 align="center">📈 <font color="#0bceaf">Deep Analytics & Growth Data</font> 📈</h1>
+
+<!-- FOREX TRADING STYLE GRAPH (Neon Green on Dark BG) -->
+<h3 align="center">💹 Contribution Market Trend (Forex Style)</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=birru2217&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Commit%20Trading%20Chart" width="100%" alt="Forex Style Graph"/>
+</div>
+
+<br>
+
+<!-- DATABASE RECORD & GROWTH STYLE STATS -->
+<h3 align="center">🗄️ Database Records & Commit Growth</h3>
 <table align="center" width="100%" style="border: none;">
   <tr>
-    <!-- Activity Line Graph -->
-    <td align="center" width="100%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=birru2217&theme=tokyo-night&hide_border=true&area=true&color=38B2AC&line=38B2AC&point=ffffff" width="100%" alt="Activity Graph"/>
+    <!-- Database Style Stats -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=birru2217&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&title_color=00B8FF&icon_color=00FF9D&text_color=ffffff&bg_color=0d1117" width="100%" alt="Database Records"/>
     </td>
-  </tr>
-  <tr>
-    <!-- Contribution Streak -->
-    <td align="center" width="100%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=birru2217&theme=tokyonight&hide_border=true&stroke=0000&ring=38B2AC&fire=38B2AC&currStreakNum=ffffff" width="100%" alt="GitHub Streak"/>
+    <!-- Advanced Language Analytics -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birru2217&theme=react&hide_border=true&layout=donut-vertical&title_color=00FF9D&text_color=ffffff&bg_color=0d1117" width="100%" alt="Language Distribution"/>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
+<!-- ACTIVITY STREAK (GROWTH VIBE) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=birru2217&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=birru2217&theme=react&hide_border=true&background=0d1117&ring=00FF9D&fire=00B8FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00B8FF&sideLabels=00FF9D&dates=ffffff" width="100%" alt="GitHub Growth Streak"/>
 </div>
 
----
+<br><br>
+
+<!-- ==========================================
+     🏆 NEW ADVANCED TROPHIES & ACHIEVEMENTS 🏆
+=========================================== -->
+<h1 align="center">🏅 <font color="#FFD700">Achievements & Hall of Fame</font> 🏅</h1>
 
 <div align="center">
-  <b><i>"Quality is a product of a conflict between programmers and testers."</i></b><br><br>
-  <img src="https://komarev.com/ghpvc/?username=birru2217&label=Profile%20Visitors&color=38B2AC&style=for-the-badge" alt="Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=birru2217&theme=gitdimmed&column=8&margin-w=15&margin-h=15&no-frame=true&no-bg=true&row=2" alt="Advanced Trophies" />
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6&height=100&section=footer" width="100%"/>
+<br><br>
+
+<!-- ==========================================
+     ✨ BEAUTIFUL FINAL TOUCH & QUOTE ✨
+=========================================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=2000&color=FF5722&center=true&vCenter=true&width=800&lines=%22Any+fool+can+write+code+that+a+computer+can+understand.%22;%22Good+programmers+write+code+that+humans+can+understand.%22+-+Martin+Fowler;Let's+build+something+amazing+together!+%E2%9C%A8" alt="Quote" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>👁️ Profile Visitors</h3>
+  <img src="https://komarev.com/ghpvc/?username=birru2217&label=Total%20Visits&color=00FF9D&style=for-the-badge&logo=github" alt="Views" />
+</div>
+
+<!-- Animated Gradient Footer -->
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0bceaf&height=150&section=footer" width="100%"/>
