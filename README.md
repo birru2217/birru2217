@@ -7,10 +7,19 @@
 
 <br>
 
+<!-- ==========================================
+     📸 PROFILE PICTURE (GLOWING CIRCLE) 📸
+=========================================== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/birru2217/birru2217/main/profile3.png" width="220" height="220" style="border-radius: 50%; border: 5px solid #00FF9D; box-shadow: 0px 0px 30px #00FF9D; object-fit: cover;" alt="Biruk Tadesse"/>
+</div>
+
+<br>
+
 <div align="center">
   <!-- Dynamic Animated Name & Department -->
   <a href="https://github.com/birru2217">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FF9D&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I'm+[Maqaa+Kee+Guutuu]+%F0%9F%91%8B;Department%3A+[Department+Kee+Guutuu];I+Build+Enterprise+Scale+Applications+%F0%9F%9A%80;Mastering+Data%2C+Cloud+%26+Algorithms+%E2%9A%9B%EF%B8%8F" alt="Typing SVG Name" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FF9D&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I'm+Biruk+Tadesse+%F0%9F%91%8B;Department%3A+[Department+Kee+Guutuu];I+Build+Enterprise+Scale+Applications+%F0%9F%9A%80;Mastering+Data%2C+Cloud+%26+Algorithms+%E2%9A%9B%EF%B8%8F" alt="Typing SVG Name" />
   </a>
   <br>
   <a href="https://github.com/birru2217">
@@ -107,15 +116,6 @@
     </tr>
   </table>
 </div>
-  <br><br>
-  
-  <!-- GIANT Contribution Snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 10px; background-color: #0d1117; padding: 10px; box-shadow: 0px 0px 25px #00FF9D;" onerror="this.src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif'">
-  </picture>
-</div>
 
 <br><br>
 
@@ -159,7 +159,6 @@
 <h3 align="center">💹 GitHub Contribution Market (Forex Trading Style)</h3>
 <div align="center">
   <br>
-  <!-- Asitti dheerina (height="350") fi harkifamee akka guutu (object-fit: fill) gooneerra! -->
   <img src="https://ghchart.rshah.org/00FF00/birru2217" width="100%" height="350" alt="Forex Heatmap" style="border-radius: 20px; padding: 20px; background-color: #000000; border: 3px solid #00FF00; box-shadow: 0px 0px 40px #00FF00; object-fit: fill;"/>
 </div>
 
