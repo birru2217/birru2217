@@ -30,8 +30,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <!-- Coding Animation -->
-      <img src="https://raw.githubusercontent.com/7s1r0/7s1r0/main/assets/coding.gif" width="100%" alt="Coding Animation"/>
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Coding Animation" onerror="this.src='https://raw.githubusercontent.com/7s1r0/7s1r0/main/assets/coding.gif'"/>
     </td>
   </tr>
 </table>
@@ -85,9 +84,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <a href="https://github.com/birru2217">
-    <img src="https://github-profile-trophy.vercel.app/?username=birru2217&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=birru2217&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
 </div>
 
 ---
