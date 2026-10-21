@@ -122,9 +122,13 @@
 =========================================== -->
 <h1 align="center">📈 <font color="#FF00FF">Deep Analytics & Growth Data</font> 📈</h1>
 
-<!-- FOREX TRADING STYLE GRAPH (Neon Green on Pitch Black) -->
+<!-- FOREX TRADING STYLE GRAPH & MASSIVE HEATMAP -->
 <h3 align="center">💹 GitHub Contribution Market (Forex Trading Style)</h3>
 <div align="center">
+  <br>
+  <!-- Fakkii cabe sana guutummaatti balleessineerra, isa hojjetu kana baay'ee guddisne! -->
+  <img src="https://ghchart.rshah.org/00FF00/birru2217" width="100%" alt="Forex Heatmap" style="border-radius: 20px; padding: 30px; background-color: #000000; border: 3px solid #00FF00; box-shadow: 0px 0px 40px #00FF00; min-height: 250px; object-fit: cover;"/>
+</div>
   <!-- Line Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=birru2217&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" width="100%" alt="Forex Style Graph" style="border-radius: 15px; box-shadow: 0px 0px 20px #00FF00; margin-bottom: 20px;"/>
   
