@@ -64,16 +64,49 @@
 <br><br>
 
 <!-- ==========================================
-     🐍 3D ANIMATION & THE GIANT SNAKE MATRIX 🐍
+     🐍 5x MULTI-SCREEN SNAKE COMMAND CENTER 🐍
 =========================================== -->
-<h1 align="center">🎮 <font color="#FF007F">My Coding Activity Matrix</font> 🎮</h1>
-<p align="center">Watch the snake eat my daily contributions!</p>
+<h1 align="center">🎮 <font color="#FF007F">Hacker Command Center (5x Snake Matrix)</font> 🎮</h1>
+<p align="center"><b>Multiple monitoring screens tracking my daily contributions!</b></p>
 
 <div align="center">
   <!-- 3D Hacker/Coding GIFs -->
   <img src="https://raw.githubusercontent.com/7s1r0/7s1r0/main/assets/coding.gif" width="45%" style="border-radius:15px; margin-right: 10px; box-shadow: 0px 0px 15px #00B8FF;"/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" style="border-radius:15px; box-shadow: 0px 0px 15px #00FF9D;"/>
   
+  <br><br>
+
+  <!-- Top 2 Snakes (Monitors) -->
+  <table align="center" width="100%" style="border: none;">
+    <tr>
+      <td align="center" width="50%">
+        <img alt="Snake 1" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 10px; background-color: #0d1117; padding: 5px; box-shadow: 0px 0px 15px #00B8FF;"/>
+      </td>
+      <td align="center" width="50%">
+        <img alt="Snake 2" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 10px; background-color: #0d1117; padding: 5px; box-shadow: 0px 0px 15px #FFD700;"/>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Center MASSIVE Snake (The Boss Screen) -->
+  <img alt="Main Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 15px; background-color: #0d1117; padding: 15px; box-shadow: 0px 0px 30px #00FF9D;" onerror="this.src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif'"/>
+
+  <br><br>
+
+  <!-- Bottom 2 Snakes (Monitors) -->
+  <table align="center" width="100%" style="border: none;">
+    <tr>
+      <td align="center" width="50%">
+        <img alt="Snake 4" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 10px; background-color: #0d1117; padding: 5px; box-shadow: 0px 0px 15px #FF007F;"/>
+      </td>
+      <td align="center" width="50%">
+        <img alt="Snake 5" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 10px; background-color: #0d1117; padding: 5px; box-shadow: 0px 0px 15px #9D00FF;"/>
+      </td>
+    </tr>
+  </table>
+</div>
   <br><br>
   
   <!-- GIANT Contribution Snake -->
