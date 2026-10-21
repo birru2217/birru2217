@@ -30,7 +30,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Coding Animation" onerror="this.src='https://raw.githubusercontent.com/7s1r0/7s1r0/main/assets/coding.gif'"/>
+      <!-- Coding Animation -->
+      <img src="https://raw.githubusercontent.com/7s1r0/7s1r0/main/assets/coding.gif" width="100%" alt="Coding Animation"/>
     </td>
   </tr>
 </table>
