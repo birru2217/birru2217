@@ -65,7 +65,6 @@
 
 <!-- ==========================================
      🐍 3D ANIMATION & THE GIANT SNAKE MATRIX 🐍
-     (Akkuma gaafatte About Me jalatti buufameera)
 =========================================== -->
 <h1 align="center">🎮 <font color="#FF007F">My Coding Activity Matrix</font> 🎮</h1>
 <p align="center">Watch the snake eat my daily contributions!</p>
@@ -89,7 +88,6 @@
 
 <!-- ==========================================
      🛠️ MASSIVE TECH STACK & ARSENAL 🛠️
-     (Saayiziin guddatee fi bifa bareedaan gurmaa'e)
 =========================================== -->
 <h1 align="center">🔮 <font color="#00B8FF">My Tech Stack Arsenal</font> 🔮</h1>
 <p align="center"><b>Hover over the icons! These are the weapons I use to conquer complex problems.</b></p>
@@ -121,14 +119,17 @@
 
 <!-- ==========================================
      📈 FOREX, GROW & DATABASE ANALYTICS 📈
-     (Inni Moofaan Haqamee Haaraan bakka bu'eera)
 =========================================== -->
 <h1 align="center">📈 <font color="#FF00FF">Deep Analytics & Growth Data</font> 📈</h1>
 
 <!-- FOREX TRADING STYLE GRAPH (Neon Green on Pitch Black) -->
 <h3 align="center">💹 GitHub Contribution Market (Forex Trading Style)</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=birru2217&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true&custom_title=Git%20Commit%20Trading%20Chart" width="100%" alt="Forex Style Graph" style="border-radius: 15px; box-shadow: 0px 0px 20px #00FF00;"/>
+  <!-- Line Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=birru2217&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" width="100%" alt="Forex Style Graph" style="border-radius: 15px; box-shadow: 0px 0px 20px #00FF00; margin-bottom: 20px;"/>
+  
+  <!-- Heatmap Fallback (100% Reliable Forex Vibe) -->
+  <img src="https://ghchart.rshah.org/00FF00/birru2217" width="100%" alt="Forex Heatmap" style="border-radius: 15px; padding: 15px; background-color: #000000; border: 1px solid #00FF00; box-shadow: 0px 0px 20px #00FF00;"/>
 </div>
 
 <br><br>
@@ -157,12 +158,17 @@
 <br><br>
 
 <!-- ==========================================
-     🏆 ADVANCED TROPHIES & HALL OF FAME 🏆
+     🏆 ADVANCED ACHIEVEMENTS & SUMMARY 🏆
 =========================================== -->
-<h1 align="center">🏅 <font color="#FFD700">Achievements & Hall of Fame</font> 🏅</h1>
+<h1 align="center">🏅 <font color="#FFD700">Advanced Achievements & Summary</font> 🏅</h1>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=birru2217&theme=dracula&column=8&margin-w=15&margin-h=15&no-frame=true&no-bg=true&row=2" width="100%" alt="Advanced Trophies" style="background-color: #0d1117; border-radius: 15px; padding: 10px; box-shadow: 0px 0px 20px #FFD700;"/>
+  <a href="https://github.com/birru2217">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=birru2217&theme=tokyonight" width="48%" style="border-radius: 15px; box-shadow: 0px 0px 15px #FFD700;" alt="Profile Details" />
+  </a>
+  <a href="https://github.com/birru2217">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=birru2217&theme=tokyonight" width="48%" style="border-radius: 15px; box-shadow: 0px 0px 15px #FFD700;" alt="Advanced Stats" />
+  </a>
 </div>
 
 <br><br>
