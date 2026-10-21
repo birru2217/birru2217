@@ -126,7 +126,8 @@
 <h3 align="center">💹 GitHub Contribution Market (Forex Trading Style)</h3>
 <div align="center">
   <br>
-  <img src="https://ghchart.rshah.org/00FF00/birru2217" width="100%" alt="Forex Heatmap" style="border-radius: 20px; padding: 30px; background-color: #000000; border: 3px solid #00FF00; box-shadow: 0px 0px 40px #00FF00; min-height: 250px; object-fit: cover;"/>
+  <!-- Asitti dheerina (height="350") fi harkifamee akka guutu (object-fit: fill) gooneerra! -->
+  <img src="https://ghchart.rshah.org/00FF00/birru2217" width="100%" height="350" alt="Forex Heatmap" style="border-radius: 20px; padding: 20px; background-color: #000000; border: 3px solid #00FF00; box-shadow: 0px 0px 40px #00FF00; object-fit: fill;"/>
 </div>
 
 <br><br>
