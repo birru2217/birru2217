@@ -84,7 +84,9 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=birru2217&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+  <a href="https://github.com/birru2217">
+    <img src="https://github-profile-trophy.vercel.app/?username=birru2217&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 </div>
 
 ---
