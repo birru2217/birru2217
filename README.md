@@ -8,10 +8,11 @@
 <br>
 
 <!-- ==========================================
-     📸 PROFILE PICTURE (GLOWING CIRCLE) 📸
+     📸 PROFILE PICTURE (PERFECT CIRCLE API) 📸
 =========================================== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/birru2217/birru2217/main/profile3.png" width="220" height="220" style="border-radius: 50%; border: 5px solid #00FF9D; box-shadow: 0px 0px 30px #00FF9D; object-fit: cover;" alt="Biruk Tadesse"/>
+  <!-- GitHub CSS waan haquuf, API fayyadamnee suuraa profile.png Geengoo (Circle) gooneerra -->
+  <img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/birru2217/birru2217/main/profile.png&w=220&h=220&fit=cover&mask=circle" width="220" height="220" alt="Biruk Tadesse"/>
 </div>
 
 <br>
