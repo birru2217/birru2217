@@ -90,7 +90,7 @@
   <!-- 3D Hacker/Coding GIFs (Bitaa fi Mirga) -->
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="48%" style="border-radius:15px; box-shadow: 0px 0px 20px #00FF9D;" alt="Coding Animation"/>
   &nbsp;
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="48%" style="border-radius:15px; box-shadow: 0px 0px 20px #00B8FF;" alt="Developer Animation"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="48%" style="border-radius:15px; box-shadow: 0px 0px 20px #00B8FF;" alt="Developer Animation"/>
   
   <br><br>
 
