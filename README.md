@@ -31,7 +31,44 @@
 
 
 
-<!-- DATABASE RECORD & GROWTH STATS --> <h3 align="center">🗄️ Database Record & Commit Insights</h3> <table align="center" width="100%" style="border: none;"> <tr> <td align="center" width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=birru2217&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00FF9D&icon_color=00B8FF" width="100%" alt="Database Records" style="border-radius: 15px; box-shadow: 0px 0px 15px #00B8FF;"/> </td> <td align="center" width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birru2217&theme=tokyonight&hide_border=true&layout=donut-vertical&title_color=00FF9D" width="100%" alt="Language Distribution" style="border-radius: 15px; box-shadow: 0px 0px 15px #00FF9D;"/> </td> </tr> </table>
+
+<!-- GITHUB ANALYTICS -->
+<h1 align="center">📊 GitHub Analytics</h1>
+
+<p align="center">
+  <i>My GitHub activity, coding languages, and contribution streak.</i>
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=birru2217&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+          width="100%"
+          alt="GitHub Statistics"
+        />
+      </td>
+      <td width="50%" align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=birru2217&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
+          width="100%"
+          alt="Most Used Languages"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">🔥 Contribution Streak</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=birru2217&theme=tokyonight&hide_border=true"
+    width="90%"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
 
 
