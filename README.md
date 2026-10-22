@@ -11,24 +11,27 @@
      📸 PROFILE PICTURE (PERFECT CIRCLE API) 📸
 =========================================== -->
 <div align="center">
-  <!-- GitHub CSS waan haquuf, API fayyadamnee suuraa profile.png Geengoo (Circle) gooneerra -->
   <img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/birru2217/birru2217/main/profile.png&w=220&h=220&fit=cover&mask=circle" width="220" height="220" alt="Biruk Tadesse"/>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Inni Gubbaa: Bitaa gara Mirgaatti (Left-to-Right) -->
+  <!-- Dynamic Animated Name & Department -->
   <a href="https://github.com/birru2217">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FF9D&center=false&vCenter=true&rtl=false&width=850&height=80&lines=Hi%2C+I'm+Biruk+Tadesse+%F0%9F%91%8B;Studying%3A+Computer+Science+%26+Engineering+(CSE);I+Build+Enterprise+Scale+Applications+%F0%9F%9A%80;Mastering+Data%2C+Cloud+%26+Algorithms+%E2%9A%9B%EF%B8%8F" alt="Typing SVG Name" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FF9D&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I'm+Biruk+Tadesse+%F0%9F%91%8B;Studying%3A+Computer+Science+%26+Engineering+(CSE);I+Build+Enterprise+Scale+Applications+%F0%9F%9A%80;Mastering+Data%2C+Cloud+%26+Algorithms+%E2%9A%9B%EF%B8%8F" alt="Typing SVG Name" />
   </a>
   <br>
-  <!-- Inni Jalaa: Mirgaa gara Bitaatti (Right-to-Left) -->
+  <!-- Inni Gubbaa: Mirgaa gara Bitaatti (Right-to-Left) -->
   <a href="https://github.com/birru2217">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1500&color=00B8FF&center=false&vCenter=true&rtl=true&width=850&height=60&lines=Full-Stack+Development+%E2%9A%99%EF%B8%8F;System+Architecture+%F0%9F%8F%97%EF%B8%8F;Database+Management+%F0%9F%93%8A;Passionate+Problem+Solver+%F0%9F%92%A1;Tech+Enthusiast+%26+Continuous+Learner+%F0%9F%93%96" alt="Typing SVG Skills" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FF9D&center=false&vCenter=true&rtl=true&width=850&height=80&lines=Hi%2C+I'm+Biruk+Tadesse+%F0%9F%91%8B;Studying%3A+Computer+Science+%26+Engineering+(CSE);I+Build+Enterprise+Scale+Applications+%F0%9F%9A%80;Mastering+Data%2C+Cloud+%26+Algorithms+%E2%9A%9B%EF%B8%8F" alt="Typing SVG Name Top" />
+  </a>
+  <br>
+  <!-- Inni Jalaa: Bitaa gara Mirgaatti (Left-to-Right) -->
+  <a href="https://github.com/birru2217">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1500&color=00B8FF&center=false&vCenter=true&rtl=false&width=850&height=60&lines=Full-Stack+Development+%E2%9A%99%EF%B8%8F;System+Architecture+%F0%9F%8F%97%EF%B8%8F;Database+Management+%F0%9F%93%8A;Passionate+Problem+Solver+%F0%9F%92%A1;Tech+Enthusiast+%26+Continuous+Learner+%F0%9F%93%96" alt="Typing SVG Skills" />
   </a>
 </div>
-
 
 <br>
 
@@ -89,9 +92,10 @@
 <p align="center"><b>Multiple monitoring screens tracking my daily contributions!</b></p>
 
 <div align="center">
-  <!-- 3D Hacker/Coding GIFs -->
-  <img src="https://raw.githubusercontent.com/7s1r0/7s1r0/main/assets/coding.gif" width="45%" style="border-radius:15px; margin-right: 10px; box-shadow: 0px 0px 15px #00B8FF;"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" style="border-radius:15px; box-shadow: 0px 0px 15px #00FF9D;"/>
+  <!-- 3D Hacker/Coding GIFs (Bitaa fi Mirga) -->
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="48%" style="border-radius:15px; box-shadow: 0px 0px 20px #00FF9D;" alt="Coding Animation"/>
+  &nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="48%" style="border-radius:15px; box-shadow: 0px 0px 20px #00B8FF;" alt="Developer Animation"/>
   
   <br><br>
 
@@ -226,7 +230,7 @@
 
 <div align="center">
   <h3>👁️ People Tracked in My Universe</h3>
-  <!-- View Counter Haaraa (Yeroo hunda kan hojjetu) -->
+  <!-- View Counter Haaraa -->
   <img src="https://api.visitorbadge.io/api/visitors?path=birru2217&label=GLOBAL%20VISITORS&labelColor=%230d1117&countColor=%2300FF9D&style=for-the-badge" alt="Views" />
 </div>
 
