@@ -18,12 +18,12 @@
 <br>
 
 <div align="center">
-  <!-- Dynamic Animated Name (Gubbaa: Bitaa gara Mirgaatti yaa'a / LTR) -->
+  <!-- Inni Gubbaa: Bitaa gara Mirgaatti (Left-to-Right) -->
   <a href="https://github.com/birru2217">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FF9D&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I'm+Biruk+Tadesse+%F0%9F%91%8B;Studying%3A+Computer+Science+%26+Engineering+(CSE);I+Build+Enterprise+Scale+Applications+%F0%9F%9A%80;Mastering+Data%2C+Cloud+%26+Algorithms+%E2%9A%9B%EF%B8%8F" alt="Typing SVG Name" />
   </a>
   <br>
-  <!-- Dynamic Animated Skills (Jalaa: Mirga gara Bitaatti yaa'a / RTL) -->
+  <!-- Inni Jalaa: Mirgaa gara Bitaatti (Right-to-Left) koodii haaraa &rtl=true qabu -->
   <a href="https://github.com/birru2217">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1500&color=00B8FF&center=true&vCenter=true&rtl=true&width=1000&height=60&lines=Full-Stack+Development+%E2%9A%99%EF%B8%8F;System+Architecture+%F0%9F%8F%97%EF%B8%8F;Database+Management+%F0%9F%93%8A;Passionate+Problem+Solver+%F0%9F%92%A1;Tech+Enthusiast+%26+Continuous+Learner+%F0%9F%93%96" alt="Typing SVG Skills" />
   </a>
