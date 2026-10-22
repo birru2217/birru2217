@@ -17,14 +17,9 @@
 <br>
 
 <div align="center">
-  <!-- Dynamic Animated Name & Department -->
-  <a href="https://github.com/birru2217">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FF9D&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I'm+Biruk+Tadesse+%F0%9F%91%8B;Studying%3A+Computer+Science+%26+Engineering+(CSE);I+Build+Enterprise+Scale+Applications+%F0%9F%9A%80;Mastering+Data%2C+Cloud+%26+Algorithms+%E2%9A%9B%EF%B8%8F" alt="Typing SVG Name" />
-  </a>
-  <br>
   <!-- Inni Gubbaa: Mirgaa gara Bitaatti (Right-to-Left) -->
   <a href="https://github.com/birru2217">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FF9D&center=false&vCenter=true&rtl=true&width=850&height=80&lines=Hi%2C+I'm+Biruk+Tadesse+%F0%9F%91%8B;Studying%3A+Computer+Science+%26+Engineering+(CSE);I+Build+Enterprise+Scale+Applications+%F0%9F%9A%80;Mastering+Data%2C+Cloud+%26+Algorithms+%E2%9A%9B%EF%B8%8F" alt="Typing SVG Name Top" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FF9D&center=false&vCenter=true&rtl=true&width=850&height=80&lines=Hi%2C+I'm+Biruk+Tadesse+%F0%9F%91%8B;Studying%3A+Computer+Science+%26+Engineering+(CSE);I+Build+Enterprise+Scale+Applications+%F0%9F%9A%80;Mastering+Data%2C+Cloud+%26+Algorithms+%E2%9A%9B%EF%B8%8F" alt="Typing SVG Name" />
   </a>
   <br>
   <!-- Inni Jalaa: Bitaa gara Mirgaatti (Left-to-Right) -->
@@ -230,7 +225,7 @@
 
 <div align="center">
   <h3>👁️ People Tracked in My Universe</h3>
-  <!-- View Counter Haaraa -->
+  <!-- View Counter Haaraa (Yeroo hunda kan hojjetu) -->
   <img src="https://api.visitorbadge.io/api/visitors?path=birru2217&label=GLOBAL%20VISITORS&labelColor=%230d1117&countColor=%2300FF9D&style=for-the-badge" alt="Views" />
 </div>
 
