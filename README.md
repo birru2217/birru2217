@@ -2,7 +2,7 @@
      🌌 MASSIVE ANIMATED GALAXY HEADER 🌌
 =========================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=300&section=header&text=Welcome%20to%20My%20Dev%20Empire&fontSize=75&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20System%20Architect%20%7C%20Innovator&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=300&section=header&text=Welcome%20to%20My%20Dev%20Empire&fontSize=50&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20System%20Architect%20%7C%20Innovator&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%"/>
 </div>
 
 <br>
@@ -223,7 +223,8 @@
 
 <div align="center">
   <h3>👁️ People Tracked in My Universe</h3>
-  <img src="https://komarev.com/ghpvc/?username=birru2217&label=Global%20Visitors&color=00FF9D&style=for-the-badge&logo=github" alt="Views" />
+  <!-- View Counter Haaraa (Yeroo hunda kan hojjetu) -->
+  <img src="https://api.visitorbadge.io/api/visitors?path=birru2217&label=GLOBAL%20VISITORS&labelColor=%230d1117&countColor=%2300FF9D&style=for-the-badge" alt="Views" />
 </div>
 
 <!-- Animated Gradient Footer -->
